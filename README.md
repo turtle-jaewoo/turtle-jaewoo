@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-**turtle-jaewoo/turtle-jaewoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Kim Jaewoo
 
 
 - 🔭 I’m currently studying at Gachon University
